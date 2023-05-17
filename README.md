@@ -1,4 +1,4 @@
-# BroGNet (Brownian Graph Neural Network)__
+# BroGNet (Brownian Graph Neural Network)
 
 ## __How to run__
 
