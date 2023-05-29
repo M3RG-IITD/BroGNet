@@ -15,13 +15,10 @@ pip install BroGNet/requirements.txt
 ```
 
 ## Running Instructions
-1. Generate data by executing the 'spring-data-brow.py' file.
-2. Train the model by running the 'spring_5BroGNet.py' file.
-3. Perform a forward simulation by executing the 'spring_5BroGNet-post.py' file.
-
-### Training
-To train a BroGNet model, you can use the `run_train.py` script:
-Run all spcripts from notebooks directory
+1. Navigate to the 'notebooks' directory.
+2. Generate data by executing the 'spring-data-brow.py' file.
+3. Train the model by running the 'spring_5BroGNet.py' file.
+4. Perform a forward simulation by executing the 'spring_5BroGNet-post.py' file.
 
 ## Visualization of trajectories
 ![/videos/N_5.gif](/videos/N_5.gif)
