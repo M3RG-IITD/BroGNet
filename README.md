@@ -1,7 +1,6 @@
 # BroGNet (Brownian Graph Neural Network)
 
 ## Installation
-install pip virtual environment using requirements.txt file
 ### pip installation
 To install environment via `pip`, follow the steps below:
 ```sh
